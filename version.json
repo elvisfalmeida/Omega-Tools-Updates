@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/elvisfalmeida/Omega-Tools-Updates/releases/download/v1.1.4/Omega_Tools.exe",
-  "changelog": "Enable window resizing and add scrollable main area for better usability."
+    "version": "1.1.5",
+    "download_url": "https://github.com/elvisfalmeida/Omega-Tools-Updates/releases/download/v1.1.5/Omega_Tools.exe",
+    "changelog": "Java autofix via winget (admin) com log ao vivo, cronometro e botao de reparo forcado."
 }
